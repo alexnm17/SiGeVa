@@ -10,7 +10,7 @@ public class Cupo {
 	private CentroVacunacion centroVacunacion;
 
 	public Cupo() {
-		// El constructor vacio ha sido crado por exigencias del Spring
+		// El constructor vacio ha sido crado por exigencias de Spring
 	}
 
 	public Cupo(String fecha, String hora, CentroVacunacion centro, int personasRestantes) {
