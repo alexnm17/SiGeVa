@@ -4,7 +4,7 @@ import org.springframework.data.mongodb.core.mapping.DBRef;
 
 public class Cupo {
 	private String fecha;
-	private String hora;
+	private String horaCupo;
 	private int personasRestantes;
 	@DBRef
 	private CentroVacunacion centroVacunacion;
