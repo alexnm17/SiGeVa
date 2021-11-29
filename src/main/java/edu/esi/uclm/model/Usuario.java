@@ -12,7 +12,6 @@ import com.fasterxml.jackson.annotation.JsonIgnore;
 
 import edu.esi.uclm.exceptions.SigevaException;
 
-//Palomo sentao
 
 public class Usuario {
 	@Id
